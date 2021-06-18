@@ -1,2 +1,13 @@
 # algorithm-visualizer
-Implement Algorithm Visualizer
+
+## Prerequisite
+
+##### Install Packages
+
+- `yarn`
+
+## Getting Started
+
+##### Run App
+
+1. `yarn dev`
